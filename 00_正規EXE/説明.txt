@@ -1,0 +1,13 @@
+IconCutter
+
+アイコン切り出し系ツールと思われるEXEです。
+
+正規EXE:
+IconCutter.exe
+
+コピー元:
+OneDrive\Desktop\iconカットツール\iconカッター.exe
+
+配置日:
+2026-05-24
+
